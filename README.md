@@ -1,24 +1,5 @@
 # vuex-20210707
 
-## Project setup
-```
-yarn install
-```
+참고 블러그
+https://github.com/gauti123456/vuextodocrud
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
